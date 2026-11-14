@@ -29,6 +29,7 @@ A practical, evidence-based framework for assessing AI-generated responses, with
 - [Scoring rubric](SCORING_RUBRIC.md) — rating scale, dimensions, and outcome rules.
 - [Worked example](examples/claim-verification-example.md) — an illustrative evaluation showing how the method is applied.
 - [Evaluator checklist](EVALUATOR_CHECKLIST.md) — a repeatable review sequence.
+- [Synthetic benchmark](benchmark/README.md) — three evaluation cases, adjudicated examples, and a reusable scoring record.
 
 ## Core principles
 
@@ -44,7 +45,7 @@ A practical, evidence-based framework for assessing AI-generated responses, with
 
 This is an independently developed demonstration framework, not a validated psychometric instrument or a claim of affiliation with any AI provider. Scores support structured human review; they do not replace expert judgment, domain-specific validation, or safety policies.
 
-The examples are synthetic and contain no confidential client or institutional material.
+The examples and benchmark are synthetic and contain no confidential client or institutional material. The benchmark demonstrates a review workflow; it does not establish comparative model performance.
 
 ## Intended applications
 
