@@ -41,7 +41,7 @@ This repository collection documents independently developed methodologies, fram
 
 1. [AI Evaluation & Quality Assurance Framework](https://github.com/bastelik/ai-evaluation-quality-assurance) — evidence-based LLM response evaluation, scoring rubric, claim verification and evaluator checklist.
 2. [Multilingual Localization & Linguistic QA Toolkit](multilingual-qa-toolkit/README.md) — terminology management, linguistic error classification, reviewer calibration and delivery QA.
-3. [International Project Management & Operations Toolkit](international-project-operations-toolkit/README.md) — project charters, stakeholder and risk registers, status reporting and closeout.
+3. [International Project Management & Operations Toolkit](https://github.com/bastelik/international-project-management-operations) — project charters, stakeholder and risk registers, status reporting and closeout.
 4. [Research, Evidence Assessment & Analytical Methodologies](research-evidence-toolkit/README.md) — source assessment, claim verification, research workflow and analytical briefs.
 5. [Professional Portfolio & Selected Case Studies](professional-case-studies/README.md) — selected experience in international development, higher education, multilingual operations and publishing.
 
