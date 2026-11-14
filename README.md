@@ -43,7 +43,7 @@ This repository collection documents independently developed methodologies, fram
 2. [Multilingual Localization & Linguistic QA Toolkit](https://github.com/bastelik/multilingual-localization-qa-toolkit) — terminology management, linguistic error classification, reviewer calibration and delivery QA.
 3. [International Project Management & Operations Toolkit](https://github.com/bastelik/international-project-management-operations) — project charters, stakeholder and risk registers, status reporting and closeout.
 4. [Research, Evidence Assessment & Analytical Methodologies](https://github.com/bastelik/research-evidence-assessment) — source assessment, claim verification, research workflow and analytical briefs.
-5. [Professional Portfolio & Selected Case Studies](professional-case-studies/README.md) — selected experience in international development, higher education, multilingual operations and publishing.
+5. [Professional Portfolio & Selected Case Studies](https://github.com/bastelik/professional-case-studies) — selected experience in international development, higher education, multilingual operations and publishing.
 
 ## Professional Profiles
 
