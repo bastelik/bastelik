@@ -45,6 +45,10 @@ This repository collection documents independently developed methodologies, fram
 4. [Research, Evidence Assessment & Analytical Methodologies](research-evidence-toolkit/README.md) — source assessment, claim verification, research workflow and analytical briefs.
 5. [Professional Portfolio & Selected Case Studies](professional-case-studies/README.md) — selected experience in international development, higher education, multilingual operations and publishing.
 
+## Professional Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/sebastiao-nascimento-086b6319/) — professional experience, background and career updates.
+
 ## Working Principles
 
 - Evidence-based assessment and decision-making
